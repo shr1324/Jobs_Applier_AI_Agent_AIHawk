@@ -12,7 +12,7 @@ experience_level:
 
 job_types:
   full_time: true
-  contract: false
+  contract: true
   part_time: false
   temporary: true
   internship: false
@@ -26,14 +26,14 @@ date:
   24_hours: true
 
 positions:
-  - Software engineer
+  - Devops engineer
 
 locations:
-  - Germany
+  - India
 
 apply_once_at_company: true
 
-distance: 100
+distance: 500
 
 company_blacklist:
   - wayfair
