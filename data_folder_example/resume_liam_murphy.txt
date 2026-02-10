@@ -1,55 +1,108 @@
-Liam Murphy
-Galway, Ireland
-Email: liam.murphy@gmail.com | AIHawk: liam-murphy
-GitHub: liam-murphy | Phone: +353 871234567
-
-Education
-Bachelor's Degree in Computer Science
-National University of Ireland, Galway (GPA: 4/4)
-Graduation Year: 2020
-
-Experience
-Co-Founder & Software Engineer
-CryptoWave Solutions (03/2021 - Present)
-Location: Ireland | Industry: Blockchain Technology
-
-Co-founded and led a startup specializing in app and software development with a focus on blockchain technology
-Provided blockchain consultations for 10+ companies, enhancing their software capabilities with secure, decentralized solutions
-Developed blockchain applications, integrated cutting-edge technology to meet client needs and drive industry innovation
-Research Intern
-National University of Ireland, Galway (11/2022 - 03/2023)
-Location: Galway, Ireland | Industry: IoT Security Research
-
-Conducted in-depth research on IoT security, focusing on binary instrumentation and runtime monitoring
-Performed in-depth study of the MQTT protocol and Falco
-Developed multiple software components including MQTT packet analysis library, Falco adapter, and RML monitor in Prolog
-Authored thesis "Binary Instrumentation for Runtime Monitoring of Internet of Things Systems Using Falco"
-Software Engineer
-University Hospital Galway (05/2022 - 11/2022)
-Location: Galway, Ireland | Industry: Healthcare IT
-
-Integrated and enforced robust security protocols
-Developed and maintained a critical software tool for password validation used by over 1,600 employees
-Played an integral role in the hospital's cybersecurity team
-Projects
-JobBot
-AI-driven tool to automate and personalize job applications on AIHawk, gained over 3000 stars on GitHub, improving efficiency and reducing application time
-Link: JobBot
-
-mqtt-packet-parser
-Developed a Node.js module for parsing MQTT packets, improved parsing efficiency by 40%
-Link: mqtt-packet-parser
-
-Achievements
-Winner of an Irish public competition - Won first place in a public competition with a perfect score of 70/70, securing a Software Developer position at University Hospital Galway
-Galway Merit Scholarship - Awarded annually from 2018 to 2020 in recognition of academic excellence and contribution
-GitHub Recognition - Gained over 3000 stars on GitHub with JobBot project
-Certifications
-C1
-
-Languages
-English - Native
-Spanish - Professional
-Interests
-Full-Stack Development, Software Architecture, IoT system design and development, Artificial Intelligence, Cloud Technologies
-
+Shravak Gacche                                           
++91 8522841890   shravakg@gmail.com  
+Multi-Cloud DevOps Engineer | AWS & Azure | Kubernetes | Terraform |Migration| CI/CD 
+ 
+ PROFESSIONAL SUMMARY  
+  
+•	Professional with 4 years and 9 months of IT experience in Cloud (Azure & AWS) and DevOps with good knowledge in IaaS and PaaS environments.  
+•	Proficient with Azure services: VMs,VNets, Blob Storage, Managed Disks, AKS, Azure App Service, Application Gateway, Load Balancer, Entra ID, Azure Functions, Logic Apps, Key Vault, Monitor, Application Insights, and ARM Templates, Azure DNS. 
+•	Proficient with AWS services: EC2, VPC, S3, RDS, EBS,ECS, EKS, ELB, Auto Scaling Groups, IAM, SNS, Route 53, Lambda and CloudFormation.  
+•	Skilled in infrastructure as code (IaC) tools: Terraform, Ansible.  
+•	Hands-on experience with containerization: Docker and Kubernetes (EKS).  
+•	Implemented robust CI/CD pipelines using Jenkins,Git-hub actions Azure devops Argo CD.  
+•	Managed production environments ensuring high availability and scalability.  
+•	Strong background in networking: VPC /VNET setup, subnetting, security groups, NSG, VPN, App Gateways, vnet/vpc peering, routing.  
+•	Implemented security best practices: AWS IAM roles,Azure RBAC policies.  
+•	Proficient in monitoring and logging: AWS CloudWatch, Prometheus and Grafana. 
+•	Extensive experience with deployment strategies and lifecycle management.  
+•	Configured and managed load balancers: Azure Standard Load Balancer, ELB (AWS).  
+•	Collaboration & Communication with developers and analysts to meet project requirements.  
+•	Provided 24/7 client support and handled production and non-production environments.  
+•	Familiar with compliance and audit requirements for cloud environments.  
+•	Deployed and managed web and application servers: Apache, .NET, Nginx, WebLogic, and  
+IIS.  
+•	Automated infrastructure provisioning and configuration using scripting (PowerShell, Bash, python).  
+•	Implemented Docker container clusters managed by Kubernetes (EKS)Elastic Kubernetes Service..  
+•	Configured network security components: Security Groups, NACLs, AWS Shield, VPC Flow Logs, and Firewall Manager.  
+•	Strong troubleshooting skills and ability to resolve complex issues in production.  
+•	Recognized for critical thinking, technical skills, planning, organizational skills, adaptability, management, and reliability in delivering DevOps solutions  
+ 
+•	Demonstrated strong collaboration, teamwork, and communication with cross-functional teams.  
+•	Participated in branching and merging strategies using GitHub .  
+•	Familiar with Governance and Cost-Optimization of Cloud operations.  
+TECHNICAL SKILLS  
+  
+•	Cloud Platforms:AWS, Microsoft Azure  
+•	CI/CD: Jenkins, github actions, Azure Pipelines, Argo cd 
+•	Containers & Orchestration: Docker, Kubernetes (EKS, AKS), Helm  
+•	Infrastructure as Code (IaC): Terraform, ansible 
+•	Scripting: Bash, PowerShell, python  
+•	Monitoring & Logging: Azure Monitor, Prometheus, Grafana  
+•	ITSM & Project Tracking: ServiceNow, Azure Boards  
+•	Cost Management: Budget alerts, anomaly detection, and spend optimization in AWS & Azure  
+•	Version Control: Git, GitHub, Azure Repos  
+•	Operating Systems: Linux, Windows  
+•	Secret Management:  HashiCorp Vault, AWS Secrets Manager, Azure Key Vault  
+•	Static Application   Security Testing (SAST):   SonarQube 
+•	Migration :  Azure Migrate, Storage Migration Service, Azure Data Factory • Container Image Scanning:   Trivy 
+ 
+PROFESSIONAL EXPERIENCE  
+  
+Working as A DevOps Engineer at CloudRaize IT services Pvt. Ltd. Since April 2021 – till present.  PROJECTS  1 
+  
+Project: GroupM Media, US. 
+Organization: CloudRaize IT services Pvt.Ltd 
+Role: Cloud DevOps Engineer  from May 2022 to Present 
+Project Overview: Led the migration of legacy on-premise workloads, including Hadoop-based systems, to a scalable hybrid AWS–Azure cloud platform. The project involved implementing a real-time data pipeline for media analytics and building a secure, highly available platform to manage global digital ad campaigns. Leveraged cloud-native services, Kubernetes, Terraform, and CI/CD pipelines to ensure seamless delivery, cost optimization, and operational excellence across distributed teams. 
+Roles & Responsibilities:  
+•	Led the migration of legacy workloads and on-premise Hadoop clusters to a hybrid AWS– Azure cloud environment, ensuring minimal downtime, secure data transfer, and optimized cost utilization. 
+•	Architected, implemented, and managed a secure, scalable, multi-cloud (AWS & Azure) infrastructure using Terraform (IaC), enabling environment reproducibility. 
+•	Engineered and maintained end-to-end CI/CD pipelines (e.g Github actions/ azure devops and Argo CD) to automate build, test, security scanning, and deployment processes, achieving full automation from code commit to production. 
+ 
+•	Containerized applications and managed their full lifecycle using Kubernetes (EKS & AKS), utilizing Helm charts for streamlined application packaging, versioning, and deployment. 
+•	Configured and managed Kubernetes Ingress controllers and cloud-native Load Balancers (AWS ALB/NLB, Azure Application Gateway) to ensure efficient traffic routing, high availability, and scalability of microservices. 
+ 
+•	Implemented Blue-Green and canary deployment strategies within Kubernetes to achieve zerodowntime releases, minimize deployment risk, and enable instant rollback capabilities. 
+•	Designed and tested Disaster Recovery (DR) strategies for critical services, including configuring cross-region replication for databases and failover mechanisms for global load balancers. 
+•	Fine-tuned Kubernetes cluster performance by implementing Horizontal Pod Autoscalers 
+(HPA) and Vertical Pod Autoscalers (VPA), and configuring resource requests/limits to maximize resource utilization. 
+•	Integrated SonarQube for static code analysis and Trivy for container vulnerability scanning into the CI/CD pipeline, enforcing quality gates and enhancing software security posture. 
+•	Designed and deployed monitoring solutions using Prometheus for metrics collection and Grafana for building comprehensive dashboards, providing real-time visibility into application performance and infrastructure health. 
+ 
+•	Developed and utilized Python and Bash scripts to automate routine operational tasks, custom monitoring checks, and environment validation processes. 
+•	Secured sensitive application data by integrating AWS Secrets Manager and Azure Key Vault with Kubernetes pods and application runtimes, eliminating hard-coded credentials. 
+ 
+•	Implemented serverless architectures using Azure Functions and automated workflows with Azure Logic Apps to process events and integrate services without managing server infrastructure. 
+•	Managed Kubernetes upgrades with a meticulous plan-for-failure approach, ensuring cluster stability and maintaining compliance with supported versions. 
+ 
+•	Achieved significant cost savings by leveraging cloud Cost Optimization tools (AWS Cost Explorer, Azure Cost Management + Advisor) to identify underutilized resources, implement right-sizing recommendations, and commit to reserved instances. 
+ 
+PROJECTS  2 
+  
+Project: Capital One 
+Organization: CloudRaize IT services Pvt.Ltd 
+Role: Cloud DevOps Engineer  from April 2021 to May 2022 
+Project Overview: 
+Designed and implemented a secure, scalable multi-cloud infrastructure (AWS & Azure) for Capital One’s digital banking ecosystem, ensuring regulatory compliance, high availability, and cost optimization. The solution incorporated automation-driven DevOps practices, Kubernetes-based container orchestration, and cloud-native services to support critical financial workloads. 
+  
+Roles & Responsibilities: 
+•	Designed and deployed multi-tier cloud environments using AWS VPCs / Azure VNets, configured Application Load Balancers / Azure Application Gateways, and implemented security groups / NSGs to ensure network isolation and compliance. 
+•	Automated provisioning of infrastructure using Terraform, enabling consistent, version-controlled deployments. 
+•	Implemented identity and access management with AWS IAM / Azure Entra ID, leveraging roles, policies, and managed identities for secure resource access. 
+•	Built and optimized CI/CD pipelines with github actions/Jenkins CICD, integrating build, test, security scanning, and deployment workflows. 
+•	Automated deployments of containerized microservices on AKS & EKS, using Helm charts for standardization and secret management with Azure Key Vault / AWS Secrets Manager. 
+•	Integrated SonarQube, Trivy, and container image vulnerability scanning into pipelines to enforce security and compliance. 
+•	Developed automation scripts in Python & Bash for resource management, monitoring tasks, and cloud service integrations. 
+•	Managed AKS/EKS clusters, configuring scaling policies, node groups, and ingress controllers (NGINX, AWS ALB Ingress). 
+•	Configured web proxy & reverse proxy  for routing, SSL termination, and application security. 
+•	Implemented serverless solutions using Azure Functions & AWS Lambda, and orchestrated workflows with Logic Apps / Step Functions to automate business processes. 
+•	Configured Azure Monitor / AWS CloudWatch, Application Insights / X-Ray, and custom dashboards for full-stack observability. 
+•	Set up proactive alerting and logging (CloudWatch Alarms, Azure Alerts) to identify performance bottlenecks and optimize uptime. 
+•	Performed infrastructure vulnerability scanning and implemented network encryption, IAM best practices, and secret rotation. 
+•	Leveraged AWS Cost Explorer / Azure Cost Management for detailed usage analysis, identifying idle resources and applying right-sizing & reservation strategies. 
+ 
+ 
+EDUCATION  
+  
+Bachelor of Technology, Tolani Maritime Institute ,Pune. Graduated: 2020  
+ 
